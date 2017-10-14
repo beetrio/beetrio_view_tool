@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+BeetrioViewTool::Renderer.copyright "Beetrio Networks LLC", "All rights reserved"
+```
 
 ## Development
 
